@@ -1,3 +1,8 @@
+---
 # docs/_config.yml
 theme: hacker
 title: PicoDMZ Devlog
+
+
+exclude:
+  - original_readme.md
