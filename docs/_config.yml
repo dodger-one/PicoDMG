@@ -8,5 +8,4 @@ title: PicoDMZ Devlog
 description: Not just another Game Boy Emulator
 
 exclude:
-  - original_readme.md
-  - old/rp2040_pinout.md
+  - original_README.md
