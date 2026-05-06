@@ -2,3 +2,6 @@ build
 uf2
 conversation
 docs/.bundle
+docs/vendor
+.bundle/
+vendor/
