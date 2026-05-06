@@ -97,3 +97,11 @@ Built by [dodger](https://cv.ciberterminal.net)
 Long-time systems engineer exploring what happens when you try to squeeze a 1989 console into modern microcontrollers.
 
 Mostly interested in performance limits, weird bugs, and making things work when they probably shouldn’t.
+
+## 🍺 Beer-powered development since 2026
+
+If you enjoy weird embedded projects, retro hardware reconstruction, or just want to help fund more experiments, consider supporting PicoDMZ:
+
+- [Liberapay](https://liberapay.com/dodger-one/)
+
+Every beer helps fund the next bad hardware decision 🍺😄🍺
