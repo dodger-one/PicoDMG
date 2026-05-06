@@ -1,5 +1,7 @@
 # PicoDMZ
 
+> A Game Boy rebuilt with modern hardware — but still powered by AA batteries.
+
 This project is a fork of the [RP2040-GB for Pico-GB by YouMakeTech](https://github.com/YouMakeTech/Pico-GB), ultimately based on the Peanut-GB emulator.
 
 PicoDMZ aims to recreate the original Nintendo Game Boy (DMG) experience as faithfully as possible, using modern hardware while preserving the original look and feel.
@@ -16,16 +18,24 @@ As a twist, the project also introduces an NFC-based system to "load" games: ori
 
 ## What This Fork Focuses On
 
-- RP2040 and RP2350 support
+- RP2350 and RP2040 support
 - SPI display integration and tuning
-- DMG-style hardware adaptation
+- Original DMG hardware adaptation
 - Audio output on embedded hardware
 - NFC tag to ROM mapping
 - Performance work toward full-speed gameplay
 
 ## Current Status
 
-The emulator is running on target hardware and is close to real-time performance. Current work is centered on polishing hardware behavior, documenting the build process, and publishing the project in a cleaner public form.
+The emulator is running on real hardware and is close to full-speed performance.
+
+The current focus is on:
+
+- pushing toward stable 59.75 FPS (met 99% of the time)
+- refining hardware behavior
+- documenting the system properly
+
+In short: it works — now it's being pushed to its limits.
 
 ## Quick Start
 
@@ -42,12 +52,13 @@ If you want to explore the project, start here:
 
 The current build/documentation assumes combinations of:
 
-- Raspberry Pi Pico / RP2040 or Pico 2 / RP2350
-- SPI TFT display such as ST7789
+- Raspberry pico 2/RP2350 or pico 1/RP2040
+- 2.8inch SPI TFT display such as ST7789
 - microSD storage for ROMs
 - MAX98357A for audio
 - Original DMG-LCD-06 button board reuse
-- optional RC522 NFC reader
+- Original Shell or clone
+- "Optional" RC522 NFC reader
 
 See the [hardware notes](docs/tech/hardware.md) for pin mapping and wiring details.
 
@@ -72,3 +83,11 @@ Major changes in this fork include hardware adaptation, display work, audio inte
 ## Original Upstream README
 
 The preserved historical README is available at [docs/original_README.md](docs/original_README.md).
+
+## Author
+
+Built by [dodger](https://cv.ciberterminal.net)
+
+Long-time systems engineer exploring what happens when you try to squeeze a 1989 console into modern microcontrollers.
+
+Mostly interested in performance limits, weird bugs, and making things work when they probably shouldn’t.
