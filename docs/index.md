@@ -18,6 +18,12 @@ This site is split into two parts:
 - [ST7789 display notes](tech/display-st7789.md)
 - [NFC workflow](tech/nfc.md)
 
+## DEMO
+
+<p align="center">
+  <video src="{{ site.baseurl }}/media/demo.mp4" width="400" autoplay loop muted playsinline></video>
+</p>
+
 ## Episodes
 
 {% for post in site.posts %}

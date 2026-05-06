@@ -39,12 +39,9 @@ In short: it works — now it's being pushed to its limits.
 
 ### DEMO
 
-<p align="center">
-  <video width="400" autoplay loop muted playsinline>
-    <source src="docs/media/demo.mp4" type="video/mp4">
-    <img src="docs/media/demo.gif" width="400" alt="Demo">
-  </video>
-</p>
+<div align="center">
+  <img src="docs/media/demo.gif" width="400" alt="Demo">
+</div>
 
 ## Quick Start
 
