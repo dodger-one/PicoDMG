@@ -5,7 +5,7 @@ title: NFC Workflow
 
 # NFC Tag Workflow
 
-This document explains how to inspect and prepare NFC tags for the PicoDMZ emulator NFC boot feature.
+This document explains how to inspect and prepare NFC tags for the PicoDMG emulator NFC boot feature.
 
 ## Hardware Compatibility
 

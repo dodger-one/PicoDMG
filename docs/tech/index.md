@@ -5,7 +5,7 @@ title: Technical Documentation
 
 # Technical Documentation
 
-This section contains stable reference material for PicoDMZ.
+This section contains stable reference material for PicoDMG.
 
 Use the blog on the [site home]({{ "/" | relative_url }}) for the chronological build story. Use the pages below for implementation details, wiring, build flags, and feature-specific notes.
 

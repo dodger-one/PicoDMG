@@ -5,7 +5,7 @@ title: Hardware Notes
 
 # Hardware Notes
 
-This page collects the hardware assumptions and wiring notes for the current PicoDMZ build.
+This page collects the hardware assumptions and wiring notes for the current PicoDMG build.
 
 ## Main Components
 
