@@ -22,7 +22,7 @@ After discovering several Game Boy emulator projects for ESP32 and RP2040/RP2350
 </div>
 
 <iframe
-  title="PicoDMZ v1.1.1 Demo"
+  title="PicoDMG v1.1.1 Demo"
   width="560"
   height="560"
   src="https://gnulinux.tube/videos/embed/vKwMHL9pivydjr7kf215TA"
@@ -69,4 +69,4 @@ I realized I could probably fit everything required inside an original Game Boy 
 ## Related Technical Documentation
 
 - [DMG-LCD-06 Tech Note]({{ site.baseurl }}/tech/dmg-lcd-06.html)
-- [DMG-LCD-06 Tech Note (github)](https://github.com/dodger-one/PicoDMZ/blob/master/docs/tech/dmg-lcd-06.md)
+- [DMG-LCD-06 Tech Note (github)](https://github.com/dodger-one/PicoDMG/blob/master/docs/tech/dmg-lcd-06.md)

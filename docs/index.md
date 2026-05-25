@@ -1,9 +1,9 @@
 ---
 layout: default
-title: PicoDMZ Devlog
+title: PicoDMG Devlog
 ---
 
-# PicoDMZ Devlog
+# PicoDMG Devlog
 
 This site is split into two parts:
 
@@ -13,7 +13,7 @@ This site is split into two parts:
 ## DEMO
 
 <iframe
-  title="PicoDMZ v1.1.1 Demo"
+  title="PicoDMG v1.1.1 Demo"
   width="560"
   height="560"
   src="https://gnulinux.tube/videos/embed/pkWBJfUDeuTtHrFSf7csNG"

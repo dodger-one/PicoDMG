@@ -1,10 +1,10 @@
-# PicoDMZ
+# PicoDMG
 
 > A Game Boy rebuilt with modern hardware — but still powered by AA batteries.
 
 This project is a fork of the [RP2040-GB for Pico-GB by YouMakeTech](https://github.com/YouMakeTech/Pico-GB), ultimately based on the Peanut-GB emulator.
 
-PicoDMZ aims to recreate the original Nintendo Game Boy (DMG) experience as faithfully as possible, using modern hardware while preserving the original look and feel.
+PicoDMG aims to recreate the original Nintendo Game Boy (DMG) experience as faithfully as possible, using modern hardware while preserving the original look and feel.
 
 The goal is not just emulation, but reconstruction:
 
@@ -15,6 +15,9 @@ The goal is not just emulation, but reconstruction:
 Despite running on RP2040 / RP2350 microcontrollers, the device behaves and feels like an authentic Game Boy.
 
 As a twist, the project also introduces an NFC-based system to "load" games: original cartridges can be scanned, and the emulator loads the corresponding ROM from microSD — blending physical interaction with modern storage.
+
+> PicoDMZ is now PicoDMG.
+> Please update your links — I think this is a much better name for the project (the old one started as an internal joke 😄)
 
 ## What This Fork Focuses On
 
@@ -43,13 +46,13 @@ In short: it works — now it's being pushed to its limits.
   <img src="docs/media/demo.gif" width="400" alt="Demo">
 </div>
 
-See the v1.1.1 demo on the [devlog](https://dodger-one.github.io/PicoDMZ/) and more videos on [peertube](https://gnulinux.tube/c/picodmz/videos).
+See the v1.1.1 demo on the [devlog](https://dodger-one.github.io/PicoDMG/) and more videos on [peertube](https://gnulinux.tube/c/picodmg/videos).
 
 ## Quick Start
 
 If you want to explore the project, start here:
 
-- [Project blog and devlog](https://dodger-one.github.io/PicoDMZ/)
+- [Project blog and devlog](https://dodger-one.github.io/PicoDMG/)
 - [Technical documentation index](docs/tech/index.md)
 - [Build guide](docs/tech/build.md)
 - [Hardware notes](docs/tech/hardware.md)
@@ -102,7 +105,7 @@ Mostly interested in performance limits, weird bugs, and making things work when
 
 ## 🍺 Beer-powered development since 2026
 
-If you enjoy weird embedded projects, retro hardware reconstruction, or just want to help fund more experiments, consider supporting PicoDMZ:
+If you enjoy weird embedded projects, retro hardware reconstruction, or just want to help fund more experiments, consider supporting PicoDMG:
 
 - [Liberapay](https://liberapay.com/dodger-one/)
 
