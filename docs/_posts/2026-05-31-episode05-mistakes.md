@@ -143,10 +143,10 @@ The emulator was running *extremely* slowly.
 I was getting around **10 FPS**.
 
 <iframe
-  title="PicoDMG v1.1.1 Demo"
+  title="RP2350 + Rust Version Running at 10 FPS"
   width="560"
   height="560"
-  src="https://gnulinux.tube/videos/embed/vKwMHL9pivydjr7kf215TA"
+  src="https://gnulinux.tube/videos/embed/5ozVUFm9HpvbR136yRPart"
   frameborder="0"
   allowfullscreen>
 </iframe>
