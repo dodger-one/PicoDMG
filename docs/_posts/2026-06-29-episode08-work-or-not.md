@@ -12,7 +12,7 @@ tags:
 
 ## Everything Worked, Until It Didn't
 
-Because sometimes the inception comes from yourself ;-)
+Because sometimes the bad ideas come from yourself ;-)
 
 ## Acto 1: the idea
 
@@ -48,11 +48,11 @@ This was one of those moments.
 
 I had finally reached the point where everything needed to come together:
 
-the RP2350
-the display
-the audio
-the NFC reader
-and, most importantly, the real AA battery power system
+- the RP2350
+- the display
+- the audio
+- the NFC reader
+- and, most importantly, the real AA battery power system
 
 I installed the three AA batteries, closed the shell as best as I could, and pressed the power switch.
 
