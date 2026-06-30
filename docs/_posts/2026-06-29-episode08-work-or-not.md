@@ -14,7 +14,7 @@ tags:
 
 Because sometimes the bad ideas come from yourself ;-)
 
-## Acto 1: the idea
+## Act 1: the idea
 
 As with many bad ideas, it started with a simple question:
 
@@ -40,7 +40,7 @@ For anyone interested in the technical details, the complete implementation can 
 
 At this point, everything looked extremely promising.
 
-## Acto 2: The moment I Almost Cried
+## Act 2: The moment I Almost Cried
 
 After months of soldering, debugging, and rewriting code, there comes a point where you stop believing the project will ever actually work.
 
@@ -64,7 +64,7 @@ That moment of absolute happiness, after months of soldering, debugging, and wri
 
 For the first time, the PicoDMG stopped feeling like a collection of parts and started feeling like a real console.
 
-## Acto 3: Reality Strikes Back
+## Act 3: Reality Strikes Back
 
 Well... apparently not everything was going THAT well. 🤣
 
@@ -106,7 +106,7 @@ Apparently, electromagnetic fields have very strong opinions about distance.
 
 <iframe title="Episode 08: Third and Epic Fail" width="560" height="315" src="https://gnulinux.tube/videos/embed/gXEFMmLZZ28jVTPNKiv1SX" allow="fullscreen" sandbox="allow-same-origin allow-scripts allow-popups allow-forms" style="border: 0px;"></iframe>
 
-## Acto 4: The Great Internal Reorganization
+## Act 4: The Great Internal Reorganization
 
 So, the problem was not the software.
 
